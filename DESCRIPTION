@@ -1,0 +1,10 @@
+Package: kmino.typologie
+Type: Package
+Title: Fonctions pour le module Typologie de k-mino
+Version: 0.0.9999
+Authors@R: person("Dominique", "Emmanuel", email = "dominique_emmanuel@hotmail.com", role = c("aut", "cre"))
+Description: Ecosystème de fonctions utiles pour le module Typologie de l'application k-mino
+License: AGPL-3
+LazyData: true
+RoxygenNote: 5.0.1.9000
+Encoding: UTF-8
